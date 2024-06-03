@@ -24,6 +24,26 @@
 Currently this project is available for mobile only.
 
 
+
+### Have a look at the screenshots of the application.
+
+Location Popup Screen   |  Home Screen (Multi cart) | Map Location Screen
+:-------------------------:|:-------------------------: | :-------------------------: 
+<img src="https://www.zapple.org/resources/A1.gif" width=240 />  |  <img src="https://www.zapple.org/resources/A8.png" width=240 /> | <img src="https://www.zapple.org/resources/A2.png" width=240 />
+
+Manual Location            |  Restaurant or Dish Search | Search Restult
+:-------------------------:|:-------------------------: | :-------------------------: 
+<img src="https://www.zapple.org/resources/A3.png" width=240 />  |  <img src="https://www.zapple.org/resources/A4.png" width=240 /> | <img src="https://www.zapple.org/resources/A5.png" width=240 />
+
+Restaurant Screen    |  Login Popup | Checkout
+:-------------------------:|:-------------------------: | :-------------------------: 
+<img src="https://www.zapple.org/resources/A6.png" width=240 /> | <img src="https://www.zapple.org/resources/A7.png" width=240 /> | <img src="https://www.zapple.org/resources/A9.png" width=240 />
+
+Coupon    | 
+:-------------------------:
+<img src="https://www.zapple.org/resources/A10.jpeg" width=240 />
+
+
 ## Supported browsers
 
 The project supports all popular browsers.
