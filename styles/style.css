@@ -1,0 +1,24 @@
+.v-center {
+    display: -moz-box;
+    display: flex;
+    -moz-box-pack: center;
+    justify-content: center;
+    -moz-box-align: center;
+    align-items: center;
+}
+
+.center {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.border-ccc{
+    border: 1px solid #ccc;
+}
+
+.fs-12-px{
+    font-size: 12px !important;
+}
